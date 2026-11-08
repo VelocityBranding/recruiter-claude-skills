@@ -33,6 +33,10 @@ cp -r skills/sourcing-candidates-with-boolean ~/.claude/skills/
 
 **[The Solo Recruiter's AI Playbook](https://velocitybrand.gumroad.com/l/azgvg)**: the ebook on its own.
 
+## Run an agency? We'll wake up your candidate database
+
+Velocity Branding (the team behind these skills) runs email for independent recruitment agencies: candidate reactivation, job alerts and client business development. The first 3-email reactivation sequence is free, written for your niche. [See how it works](https://velocitybrandinginc.com/recruitment-email-marketing).
+
 ## Use it responsibly
 
 Remove ID numbers, addresses, dates of birth and photos before pasting CVs into any AI tool. Follow your local data law (POPIA, UK GDPR, GDPR). Check every result before you use it.
