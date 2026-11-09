@@ -31,6 +31,8 @@ cp -r skills/sourcing-candidates-with-boolean ~/.claude/skills/
 
 **[The Recruiter's Claude Kit](https://velocitybrand.gumroad.com/l/iprdfx)**: 9 skills covering the whole placement. Role scorecards, outreach with follow-ups, fair CV screening, client submissions, interview prep, placement aftercare, winning clients and going freelance. Includes a setup guide and our 23-page ebook.
 
+**[Claude Setup Call for Recruiters](https://velocitybrand.gumroad.com/l/nvrqfy)**: $149, 45 minutes. We set up Claude and all 9 skills on your account and run them on one of your real roles. Kit and ebook included.
+
 **[The Solo Recruiter's AI Playbook](https://velocitybrand.gumroad.com/l/azgvg)**: the ebook on its own.
 
 ## Run an agency? We'll wake up your candidate database
